@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Rachel\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Rachel\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_TA-Week2.-1185949221.00" t="ExcludeRecursive" />
+    <e p="D:\content\others\nyu\gradClasses\TechArt\TA-Week2" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="BezierSample.cs" t="Include" />
+        <e p="CameraFollow.cs" t="Include" />
+        <e p="DrawBezierCurve.cs" t="Include" />
+        <e p="LAUBButton.cs" t="Include" />
+        <e p="LookAtUnityBezier.cs" t="Include" />
+        <e p="Moments-master" t="Include">
+          <e p="LICENSE.txt" t="Include" />
+          <e p="Moments Recorder" t="Include">
+            <e p="Demo" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="CubeKiller.cs" t="Include" />
+                <e p="CubeSpawner.cs" t="Include" />
+                <e p="Record.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="MinDrawer.cs" t="Include" />
+                <e p="RecorderEditor.cs" t="Include" />
+              </e>
+              <e p="Gif" t="Include">
+                <e p="GifEncoder.cs" t="Include" />
+                <e p="GifFrame.cs" t="Include" />
+                <e p="LzwEncoder.cs" t="Include" />
+                <e p="NeuQuant.cs" t="Include" />
+              </e>
+              <e p="MinAttribute.cs" t="Include" />
+              <e p="Recorder.cs" t="Include" />
+              <e p="ReflectionUtils.cs" t="Include" />
+              <e p="Worker.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="race-track-lake" t="Include">
+          <e p="readmore.txt" t="Include" />
+          <e p="Standard Assets" t="Include">
+            <e p="Environment" t="Include">
+              <e p="Water (Basic)" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="WaterBasic.cs" t="Include" />
+                </e>
+                <e p="Shaders" t="Include">
+                  <e p="FXWaterBasic.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TA-Week2.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
