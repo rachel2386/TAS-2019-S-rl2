@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Rachel\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Rachel\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_TAS week5.-814542186.00" t="ExcludeRecursive" />
+    <e p="D:\content\others\nyu\gradClasses\TechArt\Week5\TAS week5" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ProceduralToolkit" t="Include">
+          <e p="Examples" t="Include">
+            <e p="Breakout" t="Include">
+              <e p="Breakout.cs" t="Include" />
+              <e p="BreakoutConfigurator.cs" t="Include" />
+              <e p="Brick.cs" t="Include" />
+            </e>
+            <e p="Buildings" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="BuildingGeneratorComponent.cs" t="Include" />
+                <e p="BuildingGeneratorConfigurator.cs" t="Include" />
+                <e p="BuildingGeneratorReuse.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="BuildingGeneratorConfiguratorEditor.cs" t="Include" />
+                </e>
+                <e p="PolygonAsset.cs" t="Include" />
+                <e p="ProceduralFacadeConstructionStrategy.cs" t="Include" />
+                <e p="ProceduralFacadeElements.cs" t="Include" />
+                <e p="ProceduralFacadePlanningStrategy.cs" t="Include" />
+                <e p="ProceduralRoofConstructionStrategy.cs" t="Include" />
+                <e p="ProceduralRoofPlanningStrategy.cs" t="Include" />
+              </e>
+            </e>
+            <e p="CellularAutomata" t="Include">
+              <e p="CellularAutomatonConfigurator.cs" t="Include" />
+            </e>
+            <e p="Chairs" t="Include">
+              <e p="Armrests.cs" t="Include" />
+              <e p="Backs.cs" t="Include" />
+              <e p="ChairGenerator.cs" t="Include" />
+              <e p="ChairGeneratorConfigurator.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="ChairGeneratorConfiguratorEditor.cs" t="Include" />
+              </e>
+              <e p="Stretchers.cs" t="Include" />
+            </e>
+            <e p="Characters" t="Include">
+              <e p="Character.cs" t="Include" />
+              <e p="CharacterGenerator.cs" t="Include" />
+              <e p="CharacterGeneratorConfigurator.cs" t="Include" />
+              <e p="NameGenerator.cs" t="Include" />
+              <e p="names.txt" t="Include" />
+            </e>
+            <e p="Clipper" t="Include">
+              <e p="PathClipperExample.cs" t="Include" />
+              <e p="PathOffsetterExample.cs" t="Include" />
+            </e>
+            <e p="Common" t="Include">
+              <e p="ButtonControl.cs" t="Include" />
+              <e p="CameraRotator.cs" t="Include" />
+              <e p="ConfiguratorBase.cs" t="Include" />
+              <e p="SkyBoxGenerator.cs" t="Include" />
+              <e p="SliderControl.cs" t="Include" />
+              <e p="TextControl.cs" t="Include" />
+              <e p="ToggleControl.cs" t="Include" />
+            </e>
+            <e p="Drawing" t="Include">
+              <e p="Drawer.cs" t="Include" />
+            </e>
+            <e p="LowPolyTerrain" t="Include">
+              <e p="Editor" t="Include">
+                <e p="LowPolyTerrainGeneratorConfiguratorEditor.cs" t="Include" />
+              </e>
+              <e p="LowPolyTerrainGenerator.cs" t="Include" />
+              <e p="LowPolyTerrainGeneratorConfigurator.cs" t="Include" />
+            </e>
+            <e p="Mazes" t="Include">
+              <e p="Maze.cs" t="Include" />
+              <e p="MazeGenerator.cs" t="Include" />
+              <e p="MazeGeneratorConfigurator.cs" t="Include" />
+            </e>
+            <e p="Primitives" t="Include">
+              <e p="Cylinder.cs" t="Include" />
+              <e p="Dodecahedron.cs" t="Include" />
+              <e p="FlatSphere.cs" t="Include" />
+              <e p="FlatSpheroid.cs" t="Include" />
+              <e p="FlatTeardrop.cs" t="Include" />
+              <e p="Hexahedron.cs" t="Include" />
+              <e p="Icosahedron.cs" t="Include" />
+              <e p="Octahedron.cs" t="Include" />
+              <e p="Plane.cs" t="Include" />
+              <e p="Prism.cs" t="Include" />
+              <e p="Pyramid.cs" t="Include" />
+              <e p="Sphere.cs" t="Include" />
+              <e p="Spheroid.cs" t="Include" />
+              <e p="Teardrop.cs" t="Include" />
+              <e p="Tetrahedron.cs" t="Include" />
+            </e>
+            <e p="SDF" t="Include">
+              <e p="Animation.shader" t="Include" />
+              <e p="DistanceOperations.shader" t="Include" />
+              <e p="Easing.shader" t="Include" />
+              <e p="ImageSelector.cs" t="Include" />
+              <e p="Shapes.shader" t="Include" />
+              <e p="StarPolygon.shader" t="Include" />
+              <e p="Transitions.shader" t="Include" />
+            </e>
+            <e p="StraightSkeleton" t="Include">
+              <e p="StraightSkeletonExample.cs" t="Include" />
+            </e>
+            <e p="Tessellator" t="Include">
+              <e p="TessellatorExample.cs" t="Include" />
+            </e>
+          </e>
+          <e p="LICENSE.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="ArrayE.cs" t="Include" />
+            <e p="Buildings" t="Include">
+              <e p="BuildingGenerator.cs" t="Include" />
+              <e p="FacadeConstructionStrategy.cs" t="Include" />
+              <e p="FacadePlanningStrategy.cs" t="Include" />
+              <e p="HorizontalLayout.cs" t="Include" />
+              <e p="Interfaces" t="Include">
+                <e p="IConstructible.cs" t="Include" />
+                <e p="IFacadeConstructionStrategy.cs" t="Include" />
+                <e p="IFacadePlanningStrategy.cs" t="Include" />
+                <e p="ILayout.cs" t="Include" />
+                <e p="ILayoutElement.cs" t="Include" />
+                <e p="IRoofConstructionStrategy.cs" t="Include" />
+                <e p="IRoofPlanningStrategy.cs" t="Include" />
+              </e>
+              <e p="Layout.cs" t="Include" />
+              <e p="ProceduralRoofs.cs" t="Include" />
+              <e p="RoofConstructionStrategy.cs" t="Include" />
+              <e p="RoofPlanningStrategy.cs" t="Include" />
+              <e p="VerticalLayout.cs" t="Include" />
+            </e>
+            <e p="CellularAutomaton.cs" t="Include" />
+            <e p="Clipper" t="Include">
+              <e p="Clipper.cs" t="Include" />
+              <e p="LICENSE.txt" t="Include" />
+              <e p="ProceduralToolkit.ClipperLib.asmdef" t="Include" />
+            </e>
+            <e p="ClipperUtility.cs" t="Include" />
+            <e p="ColorE.cs" t="Include" />
+            <e p="ColorHSV.cs" t="Include" />
+            <e p="CompoundMeshDraft.cs" t="Include" />
+            <e p="DebugE.cs" t="Include" />
+            <e p="Directions.cs" t="Include" />
+            <e p="Draw.cs" t="Include" />
+            <e p="DrawRaster.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ColorHSVDrawer.cs" t="Include" />
+              <e p="MeshFilterExtension.cs" t="Include" />
+              <e p="ProceduralToolkit.Editor.asmdef" t="Include" />
+              <e p="ProceduralToolkitMenu.cs" t="Include" />
+              <e p="RulesetDrawer.cs" t="Include" />
+            </e>
+            <e p="Geometry" t="Include">
+              <e p="Circle2.cs" t="Include" />
+              <e p="Circle3.cs" t="Include" />
+              <e p="Closest2D.cs" t="Include" />
+              <e p="Closest3D.cs" t="Include" />
+              <e p="Distance2D.cs" t="Include" />
+              <e p="Distance3D.cs" t="Include" />
+              <e p="Geometry.cs" t="Include" />
+              <e p="Intersect2D.cs" t="Include" />
+              <e p="Intersect3D.cs" t="Include" />
+              <e p="Intersections" t="Include">
+                <e p="IntersectionCircleCircle.cs" t="Include" />
+                <e p="IntersectionLineCircle.cs" t="Include" />
+                <e p="IntersectionLineLine2.cs" t="Include" />
+                <e p="IntersectionLineRay2.cs" t="Include" />
+                <e p="IntersectionLineSegment2.cs" t="Include" />
+                <e p="IntersectionLineSphere.cs" t="Include" />
+                <e p="IntersectionRayCircle.cs" t="Include" />
+                <e p="IntersectionRayRay2.cs" t="Include" />
+                <e p="IntersectionRaySegment2.cs" t="Include" />
+                <e p="IntersectionRaySphere.cs" t="Include" />
+                <e p="IntersectionSegmentCircle.cs" t="Include" />
+                <e p="IntersectionSegmentSegment2.cs" t="Include" />
+                <e p="IntersectionSegmentSphere.cs" t="Include" />
+                <e p="IntersectionSphereSphere.cs" t="Include" />
+              </e>
+              <e p="IntersectionType.cs" t="Include" />
+              <e p="Line2.cs" t="Include" />
+              <e p="Line3.cs" t="Include" />
+              <e p="Segment2.cs" t="Include" />
+              <e p="Segment3.cs" t="Include" />
+              <e p="Sphere.cs" t="Include" />
+              <e p="StraightSkeleton" t="Include">
+                <e p="Plan.cs" t="Include" />
+                <e p="StraightSkeleton.cs" t="Include" />
+                <e p="StraightSkeletonGenerator.cs" t="Include" />
+              </e>
+            </e>
+            <e p="GizmosE.cs" t="Include" />
+            <e p="GLE.cs" t="Include" />
+            <e p="LibTessDotNet" t="Include">
+              <e p="Dict.cs" t="Include" />
+              <e p="Geom.cs" t="Include" />
+              <e p="LICENSE.txt" t="Include" />
+              <e p="Mesh.cs" t="Include" />
+              <e p="MeshUtils.cs" t="Include" />
+              <e p="PriorityHeap.cs" t="Include" />
+              <e p="PriorityQueue.cs" t="Include" />
+              <e p="ProceduralToolkit.LibTessDotNet.asmdef" t="Include" />
+              <e p="Sweep.cs" t="Include" />
+              <e p="Tess.cs" t="Include" />
+            </e>
+            <e p="MeshDraft.cs" t="Include" />
+            <e p="MeshDraftPrimitives.cs" t="Include" />
+            <e p="MeshE.cs" t="Include" />
+            <e p="PathClipper.cs" t="Include" />
+            <e p="PathOffsetter.cs" t="Include" />
+            <e p="ProceduralToolkit.asmdef" t="Include" />
+            <e p="PTUtils.cs" t="Include" />
+            <e p="RandomE.cs" t="Include" />
+            <e p="RendererProperties.cs" t="Include" />
+            <e p="Tessellator.cs" t="Include" />
+            <e p="TextureE.cs" t="Include" />
+            <e p="VectorE.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="Common.cginc" t="Include" />
+            <e p="Debug" t="Include">
+              <e p="Debug Bitangents.shader" t="Include" />
+              <e p="Debug Normals.shader" t="Include" />
+              <e p="Debug Tangents.shader" t="Include" />
+              <e p="Debug UV1.shader" t="Include" />
+              <e p="Debug UV2.shader" t="Include" />
+            </e>
+            <e p="Easing.cginc" t="Include" />
+            <e p="Gradient Skybox.shader" t="Include" />
+            <e p="SDF.cginc" t="Include" />
+            <e p="Transitions.cginc" t="Include" />
+            <e p="VertexColor" t="Include">
+              <e p="Diffuse Vertex Color.shader" t="Include" />
+              <e p="Specular Vertex Color.shader" t="Include" />
+              <e p="Standard Vertex Color.shader" t="Include" />
+              <e p="Unlit Vertex Color.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Script" t="Include">
+          <e p="Chunk.cs" t="Include" />
+          <e p="ChunkExample.cs" t="Include" />
+          <e p="EndlessTerrain.cs" t="Include" />
+          <e p="Perlin.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ProceduralToolkit.ClipperLib.csproj" t="IncludeRecursive" />
+      <e p="ProceduralToolkit.csproj" t="IncludeRecursive" />
+      <e p="ProceduralToolkit.Editor.csproj" t="IncludeRecursive" />
+      <e p="ProceduralToolkit.LibTessDotNet.csproj" t="IncludeRecursive" />
+      <e p="TAS week5.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="862b92ca-08f6-4959-aa4a-521a08bb836a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Perlin.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1551116823513" expanded="true" signature="0:210" ph="/* Perlin noise generator for Unity ... */" />
+                <marker date="1551116823513" expanded="true" signature="257:5529" ph="{...}" />
+                <marker date="1551116823513" expanded="false" signature="264:3015" ph="Noise functions" />
+                <marker date="1551116823513" expanded="true" signature="327:1249" ph="{...}" />
+                <marker date="1551116823513" expanded="true" signature="342:511" ph="/* floor gets the biggest int smaller than x, floortoint converts the value to an &quot;int&quot; type ... */" />
+                <marker date="1551116823513" expanded="true" signature="637:787" ph="/* u: 6x^5 - 15x^4 - 10x^3 ... */" />
+                <marker date="1551116823513" expanded="true" signature="821:1171" ph="/* returned value: is between &quot;+/-x&quot; or &quot;+/-(x-1)&quot; times 2 ... */" />
+                <marker date="1551116823513" expanded="true" signature="1298:1759" ph="{...}" />
+                <marker date="1551116823513" expanded="true" signature="1805:1857" ph="{...}" />
+                <marker date="1551116823513" expanded="true" signature="1915:2892" ph="{...}" />
+                <marker date="1551116823513" expanded="true" signature="2938:2999" ph="{...}" />
+                <marker date="1551116823513" expanded="false" signature="3021:5527" ph="Private functions" />
+                <marker date="1551116823513" expanded="true" signature="3140:3204" ph="{...}" />
+                <marker date="1551116823513" expanded="true" signature="3338:3382" ph="{...}" />
+                <marker date="1551116823513" expanded="true" signature="3388:3657" ph="/* Grad takes an integer &quot;hash&quot; and will return either &quot;x&quot; or &quot;-x&quot; ... */" />
+                <marker date="1551116823513" expanded="true" signature="3698:3751" ph="{...}" />
+                <marker date="1551116823513" expanded="true" signature="3757:3967" ph="/* This Grad overflow method returns the sum of combination of &quot;+/-x&quot; and &quot;+/-y&quot; ... */" />
+                <marker date="1551116823513" expanded="true" signature="4017:4101" ph="{...}" />
+                <marker date="1551116823513" expanded="true" signature="4161:4355" ph="{...}" />
+                <marker date="1551116823513" expanded="true" signature="4445:5510" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/EndlessTerrain.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+              <folding>
+                <marker date="1551872860971" expanded="true" signature="6:52" ph="..." />
+                <marker date="1551872860971" expanded="true" signature="98:4304" ph="{...}" />
+                <marker date="1551872860971" expanded="true" signature="105:811" ph="/* Purpose: to make a terrain treadmill by mapping chunks visible to player onto coordinates around them and invi ... */" />
+                <marker date="1551872860971" expanded="false" signature="816:934" ph="MyRegion" />
+                <marker date="1551872860971" expanded="false" signature="940:1062" ph="static Variables" />
+                <marker date="1551872860971" expanded="false" signature="1068:1359" ph="ChunkReference" />
+                <marker date="1551872860971" expanded="false" signature="1378:1650" ph="{...}" />
+                <marker date="1551872860971" expanded="true" signature="1540:1643" ph="/* if(terrainObject != null) ... */" />
+                <marker date="1551872860971" expanded="false" signature="1669:1759" ph="{...}" />
+                <marker date="1551872860971" expanded="false" signature="1791:3261" ph="{...}" />
+                <marker date="1551872860971" expanded="false" signature="1861:1958" ph="{...}" />
+                <marker date="1551872860971" expanded="false" signature="2402:3245" ph="{...}" />
+                <marker date="1551872860971" expanded="true" signature="2514:3235" ph="{...}" />
+                <marker date="1551872860971" expanded="true" signature="2715:3044" ph="{...}" />
+                <marker date="1551872860971" expanded="true" signature="2896:3027" ph="{...}" />
+                <marker date="1551872860971" expanded="true" signature="3065:3219" ph="{...}" />
+                <marker date="1551872860971" expanded="false" signature="3294:4302" ph="{...}" />
+                <marker date="1551872860971" expanded="false" signature="3493:3861" ph="{...}" />
+                <marker date="1551872860971" expanded="false" signature="3903:4111" ph="{...}" />
+                <marker date="1551872860971" expanded="false" signature="4149:4206" ph="{...}" />
+                <marker date="1551872860971" expanded="false" signature="4240:4296" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/PlayerMovement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding>
+                <marker date="1551867956297" expanded="false" signature="6:97" ph="..." />
+                <marker date="1551867956297" expanded="true" signature="142:557" ph="{...}" />
+                <marker date="1551867956297" expanded="true" signature="276:330" ph="{...}" />
+                <marker date="1551867956297" expanded="true" signature="388:555" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Chunk.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="193" column="3" lean-forward="true" selection-start-line="193" selection-start-column="3" selection-end-line="193" selection-end-column="3" />
+              <folding>
+                <marker date="1551873182535" expanded="false" signature="6:168" ph="..." />
+                <marker date="1551873182535" expanded="true" signature="299:6173" ph="{...}" />
+                <marker date="1551873182535" expanded="false" signature="359:706" ph="Internal References" />
+                <marker date="1551873182535" expanded="false" signature="721:874" ph="Public References" />
+                <marker date="1551873182535" expanded="false" signature="900:1054" ph="{...}" />
+                <marker date="1551873182535" expanded="false" signature="1080:1154" ph="{...}" />
+                <marker date="1551873182535" expanded="false" signature="1185:1486" ph="{...}" />
+                <marker date="1551873182535" expanded="false" signature="1514:5637" ph="{...}" />
+                <marker date="1551873182535" expanded="true" signature="1618:4807" ph="{...}" />
+                <marker date="1551873182535" expanded="true" signature="1678:4797" ph="{...}" />
+                <marker date="1551873182535" expanded="true" signature="1747:4737" ph="{...}" />
+                <marker date="1551873182535" expanded="true" signature="1828:2242" ph="/* _verts[z * (squareSize+1)] is the index of the first vertex on row z ... */" />
+                <marker date="1551873182535" expanded="true" signature="2306:2373" ph="/* referring to Dong's code ... */" />
+                <marker date="1551873182535" expanded="true" signature="4159:4406" ph="/* _verts[z * (squareSize + 1) + x] = v0; ... */" />
+                <marker date="1551873182535" expanded="true" signature="4882:5627" ph="{...}" />
+                <marker date="1551873182535" expanded="true" signature="4986:5617" ph="{...}" />
+                <marker date="1551873182535" expanded="false" signature="5667:5924" ph="{...}" />
+                <marker date="1551873182535" expanded="false" signature="5927:6162" ph="/* private void OnDrawGizmos() ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>myMesh</find>
+    </findStrings>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1fa8e27c-0932-4259-942e-cc74ab7d8ed8" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../Game Studio 2/RayCasting Test/Assets/RayCastGrounded.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/EndlessTerrain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ChunkExample.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Perlin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ProceduralToolkit/Examples/LowPolyTerrain/LowPolyTerrainGeneratorConfigurator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Chunk.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../../Game Studio 2/RayCasting Test/Assets/RayCastGrounded.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/EndlessTerrain.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Chunk.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="132" />
+    <option name="y" value="142" />
+    <option name="width" value="1548" />
+    <option name="height" value="833" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Game Studio 2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="862b92ca-08f6-4959-aa4a-521a08bb836a" name="Default Changelist" comment="" />
+      <created>1551283848873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551283848873</updated>
+      <workItem from="1551283850245" duration="4681000" />
+      <workItem from="1551652993432" duration="12687000" />
+      <workItem from="1551847241150" duration="24373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41741000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../Game Studio 2/RayCasting Test/Assets/RayCastGrounded.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ProceduralToolkit/Examples/LowPolyTerrain/LowPolyTerrainGeneratorConfigurator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384">
+          <folding>
+            <marker date="1537293077000" expanded="false" signature="6:55" ph="..." />
+            <marker date="1537293077000" expanded="true" signature="93:3393" ph="{...}" />
+            <marker date="1537293077000" expanded="true" signature="100:209" ph="/// Configurator for LowPolyTerrainGenerator with UI and editor controls ... " />
+            <marker date="1537293077000" expanded="true" signature="281:3391" ph="{...}" />
+            <marker date="1537293077000" expanded="true" signature="1050:2622" ph="{...}" />
+            <marker date="1537293077000" expanded="true" signature="1282:1400" ph="{...}" />
+            <marker date="1537293077000" expanded="true" signature="1563:1681" ph="{...}" />
+            <marker date="1537293077000" expanded="true" signature="1844:1962" ph="{...}" />
+            <marker date="1537293077000" expanded="true" signature="2115:2228" ph="{...}" />
+            <marker date="1537293077000" expanded="true" signature="2395:2510" ph="{...}" />
+            <marker date="1537293077000" expanded="true" signature="2653:2701" ph="{...}" />
+            <marker date="1537293077000" expanded="true" signature="2760:3385" ph="{...}" />
+            <marker date="1537293077000" expanded="true" signature="2800:2865" ph="{...}" />
+            <marker date="1537293077000" expanded="true" signature="2899:3067" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ChunkExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="62" column="44" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Perlin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1551116823513" expanded="true" signature="0:210" ph="/* Perlin noise generator for Unity ... */" />
+            <marker date="1551116823513" expanded="true" signature="257:5529" ph="{...}" />
+            <marker date="1551116823513" expanded="false" signature="264:3015" ph="Noise functions" />
+            <marker date="1551116823513" expanded="true" signature="327:1249" ph="{...}" />
+            <marker date="1551116823513" expanded="true" signature="342:511" ph="/* floor gets the biggest int smaller than x, floortoint converts the value to an &quot;int&quot; type ... */" />
+            <marker date="1551116823513" expanded="true" signature="637:787" ph="/* u: 6x^5 - 15x^4 - 10x^3 ... */" />
+            <marker date="1551116823513" expanded="true" signature="821:1171" ph="/* returned value: is between &quot;+/-x&quot; or &quot;+/-(x-1)&quot; times 2 ... */" />
+            <marker date="1551116823513" expanded="true" signature="1298:1759" ph="{...}" />
+            <marker date="1551116823513" expanded="true" signature="1805:1857" ph="{...}" />
+            <marker date="1551116823513" expanded="true" signature="1915:2892" ph="{...}" />
+            <marker date="1551116823513" expanded="true" signature="2938:2999" ph="{...}" />
+            <marker date="1551116823513" expanded="false" signature="3021:5527" ph="Private functions" />
+            <marker date="1551116823513" expanded="true" signature="3140:3204" ph="{...}" />
+            <marker date="1551116823513" expanded="true" signature="3338:3382" ph="{...}" />
+            <marker date="1551116823513" expanded="true" signature="3388:3657" ph="/* Grad takes an integer &quot;hash&quot; and will return either &quot;x&quot; or &quot;-x&quot; ... */" />
+            <marker date="1551116823513" expanded="true" signature="3698:3751" ph="{...}" />
+            <marker date="1551116823513" expanded="true" signature="3757:3967" ph="/* This Grad overflow method returns the sum of combination of &quot;+/-x&quot; and &quot;+/-y&quot; ... */" />
+            <marker date="1551116823513" expanded="true" signature="4017:4101" ph="{...}" />
+            <marker date="1551116823513" expanded="true" signature="4161:4355" ph="{...}" />
+            <marker date="1551116823513" expanded="true" signature="4445:5510" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/PlayerMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <marker date="1551867956297" expanded="false" signature="6:97" ph="..." />
+            <marker date="1551867956297" expanded="true" signature="142:557" ph="{...}" />
+            <marker date="1551867956297" expanded="true" signature="276:330" ph="{...}" />
+            <marker date="1551867956297" expanded="true" signature="388:555" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/EndlessTerrain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+          <folding>
+            <marker date="1551872860971" expanded="true" signature="6:52" ph="..." />
+            <marker date="1551872860971" expanded="true" signature="98:4304" ph="{...}" />
+            <marker date="1551872860971" expanded="true" signature="105:811" ph="/* Purpose: to make a terrain treadmill by mapping chunks visible to player onto coordinates around them and invi ... */" />
+            <marker date="1551872860971" expanded="false" signature="816:934" ph="MyRegion" />
+            <marker date="1551872860971" expanded="false" signature="940:1062" ph="static Variables" />
+            <marker date="1551872860971" expanded="false" signature="1068:1359" ph="ChunkReference" />
+            <marker date="1551872860971" expanded="false" signature="1378:1650" ph="{...}" />
+            <marker date="1551872860971" expanded="true" signature="1540:1643" ph="/* if(terrainObject != null) ... */" />
+            <marker date="1551872860971" expanded="false" signature="1669:1759" ph="{...}" />
+            <marker date="1551872860971" expanded="false" signature="1791:3261" ph="{...}" />
+            <marker date="1551872860971" expanded="false" signature="1861:1958" ph="{...}" />
+            <marker date="1551872860971" expanded="false" signature="2402:3245" ph="{...}" />
+            <marker date="1551872860971" expanded="true" signature="2514:3235" ph="{...}" />
+            <marker date="1551872860971" expanded="true" signature="2715:3044" ph="{...}" />
+            <marker date="1551872860971" expanded="true" signature="2896:3027" ph="{...}" />
+            <marker date="1551872860971" expanded="true" signature="3065:3219" ph="{...}" />
+            <marker date="1551872860971" expanded="false" signature="3294:4302" ph="{...}" />
+            <marker date="1551872860971" expanded="false" signature="3493:3861" ph="{...}" />
+            <marker date="1551872860971" expanded="false" signature="3903:4111" ph="{...}" />
+            <marker date="1551872860971" expanded="false" signature="4149:4206" ph="{...}" />
+            <marker date="1551872860971" expanded="false" signature="4240:4296" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Chunk.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="193" column="3" lean-forward="true" selection-start-line="193" selection-start-column="3" selection-end-line="193" selection-end-column="3" />
+          <folding>
+            <marker date="1551873182535" expanded="false" signature="6:168" ph="..." />
+            <marker date="1551873182535" expanded="true" signature="299:6173" ph="{...}" />
+            <marker date="1551873182535" expanded="false" signature="359:706" ph="Internal References" />
+            <marker date="1551873182535" expanded="false" signature="721:874" ph="Public References" />
+            <marker date="1551873182535" expanded="false" signature="900:1054" ph="{...}" />
+            <marker date="1551873182535" expanded="false" signature="1080:1154" ph="{...}" />
+            <marker date="1551873182535" expanded="false" signature="1185:1486" ph="{...}" />
+            <marker date="1551873182535" expanded="false" signature="1514:5637" ph="{...}" />
+            <marker date="1551873182535" expanded="true" signature="1618:4807" ph="{...}" />
+            <marker date="1551873182535" expanded="true" signature="1678:4797" ph="{...}" />
+            <marker date="1551873182535" expanded="true" signature="1747:4737" ph="{...}" />
+            <marker date="1551873182535" expanded="true" signature="1828:2242" ph="/* _verts[z * (squareSize+1)] is the index of the first vertex on row z ... */" />
+            <marker date="1551873182535" expanded="true" signature="2306:2373" ph="/* referring to Dong's code ... */" />
+            <marker date="1551873182535" expanded="true" signature="4159:4406" ph="/* _verts[z * (squareSize + 1) + x] = v0; ... */" />
+            <marker date="1551873182535" expanded="true" signature="4882:5627" ph="{...}" />
+            <marker date="1551873182535" expanded="true" signature="4986:5617" ph="{...}" />
+            <marker date="1551873182535" expanded="false" signature="5667:5924" ph="{...}" />
+            <marker date="1551873182535" expanded="false" signature="5927:6162" ph="/* private void OnDrawGizmos() ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
