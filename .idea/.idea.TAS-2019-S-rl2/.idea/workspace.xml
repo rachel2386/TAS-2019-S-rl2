@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6a617d2-019d-40e6-ba04-0ad2749a8c89" name="Default Changelist" comment="">
+    <list default="true" id="a6a617d2-019d-40e6-ba04-0ad2749a8c89" name="Default Changelist" comment="week 7 proj added">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TAS-2019-S-rl2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TAS-2019-S-rl2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +14,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TAS  week 6/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/Unlit.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TAS week6-7/Assets/AmplifyShaderEditor/Plugins/Editor/Graphs/NodeGrid.cs.meta" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="145" />
@@ -28,8 +28,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -64,6 +64,8 @@
       <workItem from="1550649814378" duration="654000" />
       <workItem from="1551874542257" duration="347000" />
       <workItem from="1552313806332" duration="4137000" />
+      <workItem from="1552630248751" duration="716000" />
+      <workItem from="1553904017254" duration="624000" />
     </task>
     <task id="LOCAL-00001" summary="week1 unity project setup">
       <created>1548870085772</created>
@@ -100,11 +102,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552316321919</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="week 7 proj added">
+      <created>1552630571534</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552630571535</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7113000" />
+    <option name="totallyTimeSpent" value="8453000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -118,7 +127,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21380697" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2191689" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -159,7 +168,8 @@
     <MESSAGE value="week3 Project" />
     <MESSAGE value="week5 Project" />
     <MESSAGE value="week6 Project&#10;flora" />
-    <option name="LAST_COMMIT_MESSAGE" value="week6 Project&#10;flora" />
+    <MESSAGE value="week 7 proj added" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 7 proj added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
