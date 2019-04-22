@@ -121,8 +121,8 @@ ModelImporter:
     useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -317,6 +317,11 @@ ModelImporter:
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
+    - name: Plane
+      parentName: person(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.49999997, y: 0.49999988, z: 0.5000001, w: 0.50000006}
+      scale: {x: 100, y: 100, z: 100}
     - name: Armature
       parentName: person(Clone)
       position: {x: 0, y: 12.500198, z: 0}
@@ -340,7 +345,7 @@ ModelImporter:
     - name: Leg.L
       parentName: Thigh.L
       position: {x: -2.2351741e-10, y: 0.01702592, z: 3.9115547e-10}
-      rotation: {x: 0.019117715, y: 0.010333031, z: -0.02564195, w: 0.99943495}
+      rotation: {x: 0.019117717, y: 0.010333031, z: -0.025641952, w: 0.99943495}
       scale: {x: 1.0000005, y: 1.0000013, z: 1.0000008}
     - name: Foot.L
       parentName: Leg.L
@@ -420,7 +425,7 @@ ModelImporter:
     - name: ForeArm.L
       parentName: Arm.L
       position: {x: 0, y: 0.01308, z: 0.00022}
-      rotation: {x: -0.023502994, y: 0.00063872704, z: -0.01502545, w: -0.9996106}
+      rotation: {x: -0.023502996, y: 0.00063872704, z: -0.015025451, w: -0.9996106}
       scale: {x: 1, y: 0.9999997, z: 1.0000002}
     - name: Hand.L
       parentName: ForeArm.L
@@ -492,11 +497,6 @@ ModelImporter:
       position: {x: -0, y: 0.0042062807, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: Plane
-      parentName: person(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: 0.49999997, y: 0.49999988, z: 0.5000001, w: 0.50000006}
-      scale: {x: 100, y: 100, z: 100}
     armTwist: 0.5
     foreArmTwist: 0.5
     upperLegTwist: 0.5

@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecb72db5-8d7a-4236-b3bf-0cc0aa1bfe41" name="Default Changelist" comment="" />
+    <list default="true" id="ecb72db5-8d7a-4236-b3bf-0cc0aa1bfe41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.TAS-2019-S-rl2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.TAS-2019-S-rl2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TAS-Week10/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TAS-Week10/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TAS-Week10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TAS-Week10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/person.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/person.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RefImages/Models/person.blend" beforeDir="false" afterPath="$PROJECT_DIR$/RefImages/Models/person.blend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RefImages/Models/person.blend1" beforeDir="false" afterPath="$PROJECT_DIR$/RefImages/Models/person.blend1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RefImages/Models/person.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/RefImages/Models/person.fbx" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,14 +18,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/recalculateNormals.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="64" column="32" lean-forward="true" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
+            <state relative-caret-position="880">
+              <caret line="64" column="32" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
               <folding>
-                <marker date="1555287042165" expanded="false" signature="6:133" ph="..." />
+                <marker date="1555287042165" expanded="false" signature="6:155" ph="..." />
                 <marker date="1555287042165" expanded="true" signature="204:2867" ph="{...}" />
                 <marker date="1555287042165" expanded="true" signature="459:634" ph="{...}" />
                 <marker date="1555287042165" expanded="true" signature="668:1296" ph="{...}" />
@@ -37,10 +46,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Inclass/AnimatorParameterController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="54" column="57" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
+              <folding>
+                <marker date="1555346834398" expanded="false" signature="6:78" ph="..." />
+                <marker date="1555346834398" expanded="true" signature="136:1497" ph="{...}" />
+                <marker date="1555346834398" expanded="true" signature="510:684" ph="/* [Range(0.001f, 10.0f)] public float stepsPerSecond; // 2 * (1/(walkCycleTime) ... */" />
+                <marker date="1555346834398" expanded="true" signature="710:770" ph="{...}" />
+                <marker date="1555346834398" expanded="true" signature="789:1495" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/HW/PersonAnimationControls.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="34" column="79" lean-forward="true" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
+              <folding>
+                <marker date="1555894089640" expanded="false" signature="6:78" ph="..." />
+                <marker date="1555894089640" expanded="true" signature="132:1258" ph="{...}" />
+                <marker date="1555894089640" expanded="true" signature="459:514" ph="{...}" />
+                <marker date="1555894089640" expanded="true" signature="572:1256" ph="{...}" />
+                <marker date="1555894089640" expanded="true" signature="860:1249" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/autoRotate.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            <state relative-caret-position="128">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
               <folding>
                 <marker date="1555286634996" expanded="false" signature="6:78" ph="..." />
                 <marker date="1555286634996" expanded="true" signature="119:289" ph="{...}" />
@@ -52,11 +93,15 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="1fa8e27c-0932-4259-942e-cc74ab7d8ed8" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../TAS-2019-S-rl2/TA-Week2/Assets/LAUBButton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HW/PersonAnimationControls.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Inclass/AnimatorParameterController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/autoRotate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/recalculateNormals.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -65,28 +110,32 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/autoRotate.cs" />
         <option value="$PROJECT_DIR$/Assets/recalculateNormals.cs" />
+        <option value="$PROJECT_DIR$/Assets/AnimatorParameterController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inclass/AnimatorParameterController.cs" />
+        <option value="$PROJECT_DIR$/Assets/HW/PersonAnimationControls.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="60" />
-    <option name="y" value="35" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="36" />
+    <option name="y" value="32" />
     <option name="width" value="1770" />
     <option name="height" value="890" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -137,11 +186,14 @@
       <option name="presentableId" value="Default" />
       <updated>1555265252888</updated>
       <workItem from="1555265259710" duration="14847000" />
+      <workItem from="1555341100140" duration="3999000" />
+      <workItem from="1555523641273" duration="4810000" />
+      <workItem from="1555893553227" duration="1139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14847000" />
+    <option name="totallyTimeSpent" value="24795000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -153,23 +205,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="29" y="26" width="1416" height="712" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28645065" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -177,13 +220,22 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,33 +254,14 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../TAS-2019-S-rl2/TA-Week2/Assets/LAUBButton.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#97#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/autoRotate.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-          <folding>
-            <marker date="1555286634996" expanded="false" signature="6:78" ph="..." />
-            <marker date="1555286634996" expanded="true" signature="119:289" ph="{...}" />
-            <marker date="1555286634996" expanded="true" signature="236:287" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../TAS-2019-S-rl2/TA-Week2/Assets/LAUBButton.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/AnimatorParameterController.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/recalculateNormals.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="64" column="32" lean-forward="true" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
+        <state relative-caret-position="880">
+          <caret line="64" column="32" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
           <folding>
-            <marker date="1555287042165" expanded="false" signature="6:133" ph="..." />
+            <marker date="1555287042165" expanded="false" signature="6:155" ph="..." />
             <marker date="1555287042165" expanded="true" signature="204:2867" ph="{...}" />
             <marker date="1555287042165" expanded="true" signature="459:634" ph="{...}" />
             <marker date="1555287042165" expanded="true" signature="668:1296" ph="{...}" />
@@ -243,6 +276,46 @@
             <marker date="1555287042165" expanded="true" signature="2295:2776" ph="{...}" />
             <marker date="1555287042165" expanded="true" signature="2398:2750" ph="{...}" />
             <marker date="1555287042165" expanded="true" signature="2588:2719" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/autoRotate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <marker date="1555286634996" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555286634996" expanded="true" signature="119:289" ph="{...}" />
+            <marker date="1555286634996" expanded="true" signature="236:287" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Inclass/AnimatorParameterController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="54" column="57" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
+          <folding>
+            <marker date="1555346834398" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555346834398" expanded="true" signature="136:1497" ph="{...}" />
+            <marker date="1555346834398" expanded="true" signature="510:684" ph="/* [Range(0.001f, 10.0f)] public float stepsPerSecond; // 2 * (1/(walkCycleTime) ... */" />
+            <marker date="1555346834398" expanded="true" signature="710:770" ph="{...}" />
+            <marker date="1555346834398" expanded="true" signature="789:1495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/HW/PersonAnimationControls.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="34" column="79" lean-forward="true" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
+          <folding>
+            <marker date="1555894089640" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555894089640" expanded="true" signature="132:1258" ph="{...}" />
+            <marker date="1555894089640" expanded="true" signature="459:514" ph="{...}" />
+            <marker date="1555894089640" expanded="true" signature="572:1256" ph="{...}" />
+            <marker date="1555894089640" expanded="true" signature="860:1249" ph="{...}" />
           </folding>
         </state>
       </provider>
