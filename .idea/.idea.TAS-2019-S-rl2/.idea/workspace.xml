@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6a617d2-019d-40e6-ba04-0ad2749a8c89" name="Default Changelist" comment="" />
+    <list default="true" id="a6a617d2-019d-40e6-ba04-0ad2749a8c89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TAS-2019-S-rl2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TAS-2019-S-rl2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +28,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -65,6 +67,7 @@
       <workItem from="1552630248751" duration="716000" />
       <workItem from="1553904017254" duration="1647000" />
       <workItem from="1555288285334" duration="383000" />
+      <workItem from="1556514220699" duration="781000" />
     </task>
     <task id="LOCAL-00001" summary="week1 unity project setup">
       <created>1548870085772</created>
@@ -122,11 +125,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555288437506</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="week 11 proj added">
+      <created>1556514721633</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556514721633</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9859000" />
+    <option name="totallyTimeSpent" value="10640000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -140,7 +150,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22184986" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22453083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -184,7 +194,8 @@
     <MESSAGE value="week 7 proj added" />
     <MESSAGE value="week 8 proj added" />
     <MESSAGE value="week 10 proj added" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 10 proj added" />
+    <MESSAGE value="week 11 proj added" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 11 proj added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
