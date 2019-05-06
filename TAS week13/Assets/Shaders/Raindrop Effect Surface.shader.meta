@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e24a92c20fb4d9f4dbfb8c22e7e1101c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _RainTexture: {fileID: 2800000, guid: 0799b253df38f2248ae392fc67593998, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
